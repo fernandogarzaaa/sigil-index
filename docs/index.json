@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 74,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -91,6 +91,28 @@
     },
     {
       "server": "@browserstack/mcp-server",
+      "version": "2.2.2",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-12T21:27:07.521Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@browserstack/mcp-server@2.2.2",
+        "integrity": "sha512-MP4D7VxqJ8lWC3AG7gtCA+6yySTmaAzPUREw/GN3Z75ac8clVJFRbS9inLXSMQTS/zxkjQ9XGHQoyJC9ybUsHA=="
+      },
+      "path": "badges/browserstack-mcp-server/2.2.2.json",
+      "status": "active"
+    },
+    {
+      "server": "@browserstack/mcp-server",
       "version": "2.2.1",
       "riskScore": 100,
       "riskLevel": "low",
@@ -109,7 +131,7 @@
         "integrity": "sha512-HzmRkSYKsCgRqbnlP2RXYtuIpbDsZ2cO4eUQXXIJEJTblemM4idqNDDbS6B7EB15iuCBxICwgC1hlmxnsJFG7A=="
       },
       "path": "badges/browserstack-mcp-server/2.2.1.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@browserstack/mcp-server",
@@ -592,6 +614,28 @@
       "status": "active"
     },
     {
+      "server": "@roychri/mcp-server-asana",
+      "version": "1.8.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-12T21:33:10.551Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@roychri/mcp-server-asana@1.8.0",
+        "integrity": "sha512-qiEqfrrIjiLzD95A9zXrSGHcKx6S15i2mT9fHYyFPah8QgqdphERWUcEj98IAIRnYgGPh6deKEVr4msXXLGYgA=="
+      },
+      "path": "badges/roychri-mcp-server-asana/1.8.0.json",
+      "status": "active"
+    },
+    {
       "server": "@runpod/mcp-server",
       "version": "4.2.0",
       "riskScore": 100,
@@ -1040,6 +1084,32 @@
       "status": "active"
     },
     {
+      "server": "Bitwarden MCP Server",
+      "version": "2026.7.0",
+      "riskScore": 0,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 0,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 19,
+        "info": 59
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-12T21:30:27.428Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@bitwarden/mcp-server@2026.7.0",
+        "integrity": "sha512-vguzw1WdvkLr7ZQdDv3r3xhi8My6gGYyd8acgB1znL8evxrQaMoTFX9s788OUIHoh3JJJEdtaPHjKBokDnDg8Q=="
+      },
+      "path": "badges/bitwarden-mcp-server/2026.7.0.json",
+      "status": "active"
+    },
+    {
       "server": "cds-mcp",
       "version": "0.0.7",
       "riskScore": 87,
@@ -1167,6 +1237,32 @@
         "integrity": "sha512-KIF3h+WXncB5+H93YWp9YSRzWY9C1qsF2J+SG2F2XXm7SoWKffvtVzQ4P+0D4cgmgCKjoPiVH5HirCc2bWTPEg=="
       },
       "path": "badges/duckduckgo-mcp-server/0.6.0.json",
+      "status": "active"
+    },
+    {
+      "server": "e2e-purposes-malicious-server",
+      "version": "1.5.0",
+      "riskScore": 65,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 89,
+        "mcp.robustness": 76,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 2,
+        "minor": 1,
+        "info": 7
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-12T21:33:38.893Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "malicious-mcp-server@1.5.0",
+        "integrity": "sha512-B76fsJUTcIyyc/cQet6tgCv90BLjgbxl/a3d+1j0PJSsblIvzdO0uJm+K6g3I/DwWK+E0vi5K4bylwYUHipa1g=="
+      },
+      "path": "badges/e2e-purposes-malicious-server/1.5.0.json",
       "status": "active"
     },
     {
@@ -1594,6 +1690,32 @@
         "integrity": "sha512-f9UeO2SvHyO4Ko+LgKzbslkMzJyYhhM46ctBt74MVYQH273pAevGxAQqTWAeZZdr0rncE0uW/lne7DALcTDHoA=="
       },
       "path": "badges/transcend-mcp-docs/0.4.15.json",
+      "status": "active"
+    },
+    {
+      "server": "Transloadit MCP",
+      "version": "0.6.2",
+      "riskScore": 81,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 85,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 3,
+        "info": 7
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-12T21:31:55.829Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@transloadit/mcp-server@0.6.2",
+        "integrity": "sha512-xYEX+cIeymdF24VajRSzst4qvxW2F13DB51aaLVP0R0KFNKbg30itqFEV1gReESpH8sbV2QfHgZAAktq6yQzYA=="
+      },
+      "path": "badges/transloadit-mcp/0.6.2.json",
       "status": "active"
     },
     {

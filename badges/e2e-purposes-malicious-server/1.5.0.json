@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "e2e-purposes-malicious-server",
+  "version": "1.5.0",
+  "riskScore": 65,
+  "riskLevel": "high",
+  "scores": {
+    "mcp.schemaQuality": 89,
+    "mcp.robustness": 76,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 2,
+    "minor": 1,
+    "info": 7
+  },
+  "evalHash": "28bbba6aae301b0055e30a6a26624fe3538044016fae653f0169c7f63b884801",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-12T21:33:38.893Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "malicious-mcp-server@1.5.0",
+    "integrity": "sha512-B76fsJUTcIyyc/cQet6tgCv90BLjgbxl/a3d+1j0PJSsblIvzdO0uJm+K6g3I/DwWK+E0vi5K4bylwYUHipa1g=="
+  },
+  "signature": "RSuLCe9IS8SIHvFjXmDK3J8LUmFKEO1FbB+cCsQ6wpPLRJy5baDVEwZwzS714tZgjuKtCiYdcQy+hyIsDi+mAQ=="
+}

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Bitwarden MCP Server",
+  "version": "2026.7.0",
+  "riskScore": 0,
+  "riskLevel": "high",
+  "scores": {
+    "mcp.schemaQuality": 0,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 19,
+    "info": 59
+  },
+  "evalHash": "87358bfbe78a2c3da9946174aaca633cf5495cbc04fbc805ad174bc50a751bef",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-12T21:30:27.428Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@bitwarden/mcp-server@2026.7.0",
+    "integrity": "sha512-vguzw1WdvkLr7ZQdDv3r3xhi8My6gGYyd8acgB1znL8evxrQaMoTFX9s788OUIHoh3JJJEdtaPHjKBokDnDg8Q=="
+  },
+  "signature": "rTiKUqjAGcpYbXjvfywXJVQztM//N5YyJfXQ1Vk9/u9eFXCikOHybBdMbNX1twknK5sQVAcDdRD6WT3JycK+AA=="
+}

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Transloadit MCP",
+  "version": "0.6.2",
+  "riskScore": 81,
+  "riskLevel": "medium",
+  "scores": {
+    "mcp.schemaQuality": 85,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 3,
+    "info": 7
+  },
+  "evalHash": "29aa1f12b50fe75875c3db67b88adf0e222b9149d155437952ffbbda58772d47",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-12T21:31:55.829Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@transloadit/mcp-server@0.6.2",
+    "integrity": "sha512-xYEX+cIeymdF24VajRSzst4qvxW2F13DB51aaLVP0R0KFNKbg30itqFEV1gReESpH8sbV2QfHgZAAktq6yQzYA=="
+  },
+  "signature": "V7z7/JLuLKuoqWxS2r3Y3HN3C39jknxnfO3TWjyGf1/D2Kv8I1mRaQMpT2qbBEClieiBETCY3sSejodHnJE+Aw=="
+}

@@ -1,6 +1,28 @@
 {
-  "count": 74,
+  "count": 79,
   "badges": [
+    {
+      "server": "@apify/actors-mcp-server",
+      "version": "0.18.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-13T21:25:14.693Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.18.0",
+        "integrity": "sha512-z5sqRn+ealOXN2rNC+iRB60+BmrLNt3PgfqDe/xeLggkDtf+VryxvVykQ2AUsOLsofDvD6UOpidEKqeFivQFrQ=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.18.0.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.17.4",
@@ -21,7 +43,7 @@
         "integrity": "sha512-EOzzBSTA3/o/QM1EptJO+ZyoooZ/dlbb8uvI7qjf7MWzcQE+U6kQcFybjQaeCeOBYy+5epxV1jvuPW1CottTsA=="
       },
       "path": "badges/apify-actors-mcp-server/0.17.4.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -154,6 +176,28 @@
       },
       "path": "badges/browserstack-mcp-server/2.1.0.json",
       "status": "superseded"
+    },
+    {
+      "server": "@contentful/mcp-server",
+      "version": "1.23.18",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-13T21:38:09.056Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@contentful/mcp-server@1.23.18",
+        "integrity": "sha512-8yBVgTfYpig+zW8lf8Ad1yoZ4GuIT6RfdpJz4Tec6BjcGnVH9ZRynR5v2BO7fyOPztPC9OhkO0FrcNwu8wJEcA=="
+      },
+      "path": "badges/contentful-mcp-server/1.23.18.json",
+      "status": "active"
     },
     {
       "server": "@currents/mcp",
@@ -1214,6 +1258,32 @@
       "status": "superseded"
     },
     {
+      "server": "desktop-commander",
+      "version": "0.3.0",
+      "riskScore": 68,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 76,
+        "mcp.robustness": 96,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 3,
+        "info": 20
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-13T21:34:17.892Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@wonderwhy-er/desktop-commander@0.3.0",
+        "integrity": "sha512-2EXNxuztSIW3fQw6OEGMek39M8yQlKinXooMYtNR4wRLhtA+f3b0cbxBggAfDeKemMWltm1qWQy/t2Av9VmYLw=="
+      },
+      "path": "badges/desktop-commander/0.3.0.json",
+      "status": "active"
+    },
+    {
       "server": "duckduckgo-mcp-server",
       "version": "0.6.0",
       "riskScore": 94,
@@ -1263,6 +1333,32 @@
         "integrity": "sha512-B76fsJUTcIyyc/cQet6tgCv90BLjgbxl/a3d+1j0PJSsblIvzdO0uJm+K6g3I/DwWK+E0vi5K4bylwYUHipa1g=="
       },
       "path": "badges/e2e-purposes-malicious-server/1.5.0.json",
+      "status": "active"
+    },
+    {
+      "server": "ESLint",
+      "version": "0.3.14",
+      "riskScore": 94,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 98,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 2
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-13T21:35:29.575Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@eslint/mcp@0.3.14",
+        "integrity": "sha512-JE71Q0Z+juD9K1dFbIpqoXrsoqqbTQJzuvk2li6KYAkHz6mdpPUTB1+7s7RmqFWyakB1kyNk9ogCOL8KWbDRGA=="
+      },
+      "path": "badges/eslint/0.3.14.json",
       "status": "active"
     },
     {
@@ -1642,6 +1738,28 @@
         "integrity": "sha512-B2bcobQQhEgA4TMl+g6MJBa09kdHhnxKJTKtu7ze5BhSvMi9KyVEp+fBXUBBp1QkKLeNLQcLQw4iZdqZ6HklwQ=="
       },
       "path": "badges/qase-mcp-server/2.7.5.json",
+      "status": "active"
+    },
+    {
+      "server": "slite-mcp-server",
+      "version": "1.3.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-13T21:39:02.172Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "slite-mcp-server@1.3.0",
+        "integrity": "sha512-G12bvfxlwWl7JeewxBQQ6pEbtX1QNtd2OF3gmsvRQRIR0ANXrqX5Ky5tS9U6kIlEEFWSt1J0iWm/s5j+NDlRcg=="
+      },
+      "path": "badges/slite-mcp-server/1.3.0.json",
       "status": "active"
     },
     {

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "LangSmith API MCP Server",
+  "version": "0.1.7",
+  "riskScore": 81,
+  "riskLevel": "medium",
+  "scores": {
+    "mcp.schemaQuality": 85,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 15
+  },
+  "evalHash": "ee658656dab28a615e54fe55d5038456a878d6813015dbee8a9ca9b060c4c0c7",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-14T21:59:59.018Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "langsmith-mcp-server@0.1.7",
+    "integrity": "sha512-Y6rnhyQv7aGaadhI/4aHDpd1nSD7Y6ykeUGUpjH6I7gO96uzfawf6lNruTdMlsO35DxHbkxQ+bIeImp00674dQ=="
+  },
+  "signature": "mQvneRPLPTeDRx1xbNy2pH8NzC3NuJQIc/hO/e8u68XmuzseLXIQhEC4TzLhtmvhetdD1t1ZxzcLcp48ua0HAA=="
+}

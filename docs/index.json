@@ -1,6 +1,28 @@
 {
-  "count": 79,
+  "count": 84,
   "badges": [
+    {
+      "server": "@apify/actors-mcp-server",
+      "version": "0.18.2",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-14T21:55:54.468Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.18.2",
+        "integrity": "sha512-KRyWMwvNNcDV/60GsidA63qKMXyKBQa5DH63Nv4vfT9i9O4dgyeHnvQi4+fY9sFRQ2w9YzzCNGkLG77HDX62bQ=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.18.2.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.18.0",
@@ -21,7 +43,7 @@
         "integrity": "sha512-z5sqRn+ealOXN2rNC+iRB60+BmrLNt3PgfqDe/xeLggkDtf+VryxvVykQ2AUsOLsofDvD6UOpidEKqeFivQFrQ=="
       },
       "path": "badges/apify-actors-mcp-server/0.18.0.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -1128,6 +1150,28 @@
       "status": "active"
     },
     {
+      "server": "argocd-mcp",
+      "version": "0.9.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-14T22:02:26.135Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "argocd-mcp@0.9.0",
+        "integrity": "sha512-5xfz8JB2ZNCcl/fvkJJnX1aH7AdmSD68cZDY/xzwRoBtoedfDXnwEKN3TBcItFkr0IDpMNR4sXwcsEE4R14trw=="
+      },
+      "path": "badges/argocd-mcp/0.9.0.json",
+      "status": "active"
+    },
+    {
       "server": "Bitwarden MCP Server",
       "version": "2026.7.0",
       "riskScore": 0,
@@ -1585,6 +1629,32 @@
       "status": "active"
     },
     {
+      "server": "LangSmith API MCP Server",
+      "version": "0.1.7",
+      "riskScore": 81,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 85,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 15
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-14T21:59:59.018Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "langsmith-mcp-server@0.1.7",
+        "integrity": "sha512-Y6rnhyQv7aGaadhI/4aHDpd1nSD7Y6ykeUGUpjH6I7gO96uzfawf6lNruTdMlsO35DxHbkxQ+bIeImp00674dQ=="
+      },
+      "path": "badges/langsmith-api-mcp-server/0.1.7.json",
+      "status": "active"
+    },
+    {
       "server": "mcp-server-commands",
       "version": "0.8.2",
       "riskScore": 99,
@@ -1782,6 +1852,54 @@
         "integrity": "sha512-hNGRyPXWB+xAhRhztmMnaBLqYR8Q4rz+8VAFAyeWuQIuUzvAZLgn3zXKe4c92EpNG01MoO5X8ZWZRDz5vdHwFA=="
       },
       "path": "badges/tiny-http-mcp-server/0.1.131.json",
+      "status": "active"
+    },
+    {
+      "server": "tiny-stdio-mcp-server",
+      "version": "0.1.32",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-14T22:02:58.097Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "tiny-stdio-mcp-server@0.1.32",
+        "integrity": "sha512-S/IQYlpPcA+eFc2vqrQ12N9HCX3AFN6YxlvyqLFEE/dreHjswvIIrb5kplfH8hn8L4jq+H/0j6i2JjI7vxd4eg=="
+      },
+      "path": "badges/tiny-stdio-mcp-server/0.1.32.json",
+      "status": "active"
+    },
+    {
+      "server": "TouchDesigner",
+      "version": "2.1.0",
+      "riskScore": 85,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 85,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 15
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-14T22:01:26.565Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "touchdesigner-mcp-server@2.1.0",
+        "integrity": "sha512-3ZhzzLVn72uUN2ej80L8PT5ZO1ndjUACH9k3i1Iy+BhU0+G3m16dVVdXjrkaLNixoGMqq38tp4h5q5/KwgrUag=="
+      },
+      "path": "badges/touchdesigner/2.1.0.json",
       "status": "active"
     },
     {

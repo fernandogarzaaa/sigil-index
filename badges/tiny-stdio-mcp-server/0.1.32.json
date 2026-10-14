@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "tiny-stdio-mcp-server",
+  "version": "0.1.32",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-14T22:02:58.097Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "tiny-stdio-mcp-server@0.1.32",
+    "integrity": "sha512-S/IQYlpPcA+eFc2vqrQ12N9HCX3AFN6YxlvyqLFEE/dreHjswvIIrb5kplfH8hn8L4jq+H/0j6i2JjI7vxd4eg=="
+  },
+  "signature": "nPDzwbuHGZvAqqQ/g2d9PveU5HhXeoQ3QQVctYbsrSWfsNnhKtMkXgCmExUAA/Lou60POVviE6byEV3rh484CQ=="
+}

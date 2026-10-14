@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "TouchDesigner",
+  "version": "2.1.0",
+  "riskScore": 85,
+  "riskLevel": "medium",
+  "scores": {
+    "mcp.schemaQuality": 85,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 15
+  },
+  "evalHash": "344f449edc5a30f586249a93b0270b8c7d7d6f3c12ee4ccbcdcf765688ffa297",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-14T22:01:26.565Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "touchdesigner-mcp-server@2.1.0",
+    "integrity": "sha512-3ZhzzLVn72uUN2ej80L8PT5ZO1ndjUACH9k3i1Iy+BhU0+G3m16dVVdXjrkaLNixoGMqq38tp4h5q5/KwgrUag=="
+  },
+  "signature": "y/Dqif9kDWDD+CIQc2JtbRwF/wtySAXhh6pFY0OpBkan+/gEx1ytHoxaFzpQowDfLKQcfXOw9JrM4hT5xclGAg=="
+}

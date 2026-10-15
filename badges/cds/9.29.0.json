@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "cds",
+  "version": "9.29.0",
+  "riskScore": 85,
+  "riskLevel": "medium",
+  "scores": {
+    "mcp.schemaQuality": 98,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 3,
+    "info": 3
+  },
+  "evalHash": "b310bdbe48253837705d0b67711125050a44e5689f3e8cca095c8e2c1342b655",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-15T21:31:23.210Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@coinbase/cds-mcp-server@9.29.0",
+    "integrity": "sha512-7xaQVm2+Virra9mHCD8Ssfd94oTqmPIzRds60/YLMmM2aehzY4sVP5qsC8dTSzh8Oc7lm/IRGufpalZVQgRWbg=="
+  },
+  "signature": "1w86Jnzt0a+msFjP/q6TI8LyYkTR5l/4DWM2d7BsUGhjzi0LYwBdt0gI+yqyV3G3OXLTV7zks48idlek1FGXDg=="
+}

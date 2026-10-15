@@ -1,6 +1,28 @@
 {
-  "count": 84,
+  "count": 89,
   "badges": [
+    {
+      "server": "@apify/actors-mcp-server",
+      "version": "0.18.3",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-15T21:24:14.874Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.18.3",
+        "integrity": "sha512-mk5Vx4xAv1Z5I0ls+H/mbaYMHutcqFewfK/J6UQuzz3ocUk83qHQi+Vh+dTgrD5RhJ3saC7YV352ERIafb6G9w=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.18.3.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.18.2",
@@ -21,7 +43,7 @@
         "integrity": "sha512-KRyWMwvNNcDV/60GsidA63qKMXyKBQa5DH63Nv4vfT9i9O4dgyeHnvQi4+fY9sFRQ2w9YzzCNGkLG77HDX62bQ=="
       },
       "path": "badges/apify-actors-mcp-server/0.18.2.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -132,6 +154,28 @@
       },
       "path": "badges/apify-actors-mcp-server/0.17.1.json",
       "status": "superseded"
+    },
+    {
+      "server": "@azure-devops/mcp",
+      "version": "2.10.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-15T21:28:51.966Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@azure-devops/mcp@2.10.0",
+        "integrity": "sha512-Wwd3kszlm+ag43X1fs7+kOt7ACLXF+hymNYQA8hzvbIFtrKsKmhrU6gnU1rsOqQEnueFR1rQLGNvjB3uA3AngA=="
+      },
+      "path": "badges/azure-devops-mcp/2.10.0.json",
+      "status": "active"
     },
     {
       "server": "@browserstack/mcp-server",
@@ -746,6 +790,28 @@
       "status": "active"
     },
     {
+      "server": "@shortcut/mcp",
+      "version": "0.25.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-15T21:29:52.655Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@shortcut/mcp@0.25.0",
+        "integrity": "sha512-cfLWrWOJeJn6SnwctngcRAOEFAZ/iZgKDk4LOdkxyt8E3X3cylxd8PuTsQPTvw5sLWH0maORsbNEEYOFE0jwGA=="
+      },
+      "path": "badges/shortcut-mcp/0.25.0.json",
+      "status": "active"
+    },
+    {
       "server": "@stripe/mcp",
       "version": "0.3.3",
       "riskScore": 100,
@@ -1198,6 +1264,32 @@
       "status": "active"
     },
     {
+      "server": "cds",
+      "version": "9.29.0",
+      "riskScore": 85,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 98,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 3,
+        "info": 3
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-15T21:31:23.210Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@coinbase/cds-mcp-server@9.29.0",
+        "integrity": "sha512-7xaQVm2+Virra9mHCD8Ssfd94oTqmPIzRds60/YLMmM2aehzY4sVP5qsC8dTSzh8Oc7lm/IRGufpalZVQgRWbg=="
+      },
+      "path": "badges/cds/9.29.0.json",
+      "status": "active"
+    },
+    {
       "server": "cds-mcp",
       "version": "0.0.7",
       "riskScore": 87,
@@ -1604,6 +1696,32 @@
         "integrity": "sha512-4vDouKHxEbJW2UgSo+rY594hlrQ6XTo5cUuyfchsyUf/3YHzAaG9EfKxt4W88WMfxWhQw0CWGccqvm0D5y8mag=="
       },
       "path": "badges/hostinger-api-mcp/2.8.0.json",
+      "status": "active"
+    },
+    {
+      "server": "kibana-mcp-server",
+      "version": "0.11.1",
+      "riskScore": 71,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 75,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 3,
+        "info": 17
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-15T21:27:02.909Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@tocharianou/mcp-server-kibana@0.11.1",
+        "integrity": "sha512-xAmtdUh+yMFzkP/OtbwDprqgsey9wk5ATMNVwmZHbXVayb5nQNyYSIzJtWcI8pwlEcnNjFBbU+BbpyCiRI7wRQ=="
+      },
+      "path": "badges/kibana-mcp-server/0.11.1.json",
       "status": "active"
     },
     {

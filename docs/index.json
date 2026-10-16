@@ -1,6 +1,28 @@
 {
-  "count": 89,
+  "count": 94,
   "badges": [
+    {
+      "server": "@apify/actors-mcp-server",
+      "version": "0.18.4",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-16T21:24:00.770Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.18.4",
+        "integrity": "sha512-NBffjNbgJN0hB9746wR5TQPVcyZ09T8ZtfdOVevURbWZxDLLg47Gd05SMT2Z+vg7y+2P/Mq3zpCifBB0e48+Xg=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.18.4.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.18.3",
@@ -21,7 +43,7 @@
         "integrity": "sha512-mk5Vx4xAv1Z5I0ls+H/mbaYMHutcqFewfK/J6UQuzz3ocUk83qHQi+Vh+dTgrD5RhJ3saC7YV352ERIafb6G9w=="
       },
       "path": "badges/apify-actors-mcp-server/0.18.3.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -175,6 +197,28 @@
         "integrity": "sha512-Wwd3kszlm+ag43X1fs7+kOt7ACLXF+hymNYQA8hzvbIFtrKsKmhrU6gnU1rsOqQEnueFR1rQLGNvjB3uA3AngA=="
       },
       "path": "badges/azure-devops-mcp/2.10.0.json",
+      "status": "active"
+    },
+    {
+      "server": "@benborla29/mcp-server-mysql",
+      "version": "2.0.9",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-16T21:34:13.119Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@benborla29/mcp-server-mysql@2.0.9",
+        "integrity": "sha512-hjLuI/UOe7t/xwREMGHtB3gGJn8lyvCsv65HT+ePYDKZfBFbirDzxJAaIsAg1DJwlVTMiw0Oq88PpJkRyl1+SQ=="
+      },
+      "path": "badges/benborla29-mcp-server-mysql/2.0.9.json",
       "status": "active"
     },
     {
@@ -355,6 +399,28 @@
         "integrity": "sha512-35+GvTjXU66IszO3XDX2hNORj/+FeAd9207nrrhjAKInFYHKjqj9RmI3LiNCW3wqzSvZqoh2aTZHjnRVle8Fpw=="
       },
       "path": "badges/mantine-mcp-server/9.7.2.json",
+      "status": "active"
+    },
+    {
+      "server": "@mapbox/mcp-server",
+      "version": "0.16.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-16T21:29:18.930Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@mapbox/mcp-server@0.16.0",
+        "integrity": "sha512-thQATkB1yxMdzNR1HkargPGa7g2H25mMuNS4Zh3VF62ZBaGRh5XRXcJt0WQU0plM8PkbVFohOtyvUO9INYNkgQ=="
+      },
+      "path": "badges/mapbox-mcp-server/0.16.0.json",
       "status": "active"
     },
     {
@@ -695,6 +761,28 @@
         "integrity": "sha512-5nPSwHMnugSGAhSJS5vVIlMao+iTJO9HoWGpCnT8lJNrPy3rZMqs1V/CPiN4MuxF+5EBgRE/f/Tirl6Wfi75Mg=="
       },
       "path": "badges/notionhq-notion-mcp-server/2.5.2.json",
+      "status": "active"
+    },
+    {
+      "server": "@pandacss/mcp",
+      "version": "2.2.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-16T21:35:18.638Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@pandacss/mcp@2.2.0",
+        "integrity": "sha512-YrxNeTTMzw5pm1LsHqUwx/bIs3tMxpcTRelARNr0lZi6Grk3PRXnZPjytdHvbxV+e7lOZMEXGQ/gXoN2APP4xQ=="
+      },
+      "path": "badges/pandacss-mcp/2.2.0.json",
       "status": "active"
     },
     {
@@ -1392,6 +1480,32 @@
       },
       "path": "badges/context7/4.2.0.json",
       "status": "superseded"
+    },
+    {
+      "server": "dataforseo-mcp-server",
+      "version": "3.1.3",
+      "riskScore": 92,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 96,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 2,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-16T21:31:12.163Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "dataforseo-mcp-server@3.1.3",
+        "integrity": "sha512-bzYbgJ9pfVFkHDeViwbMhn3jl1EH0ULdpBn7xTuot0pewsA75LJX3s2HRg3xjGWZBSFyWhqVNFykNHG3lwqkCw=="
+      },
+      "path": "badges/dataforseo-mcp-server/3.1.3.json",
+      "status": "active"
     },
     {
       "server": "desktop-commander",

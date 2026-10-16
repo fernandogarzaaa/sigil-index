@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@benborla29/mcp-server-mysql",
+  "version": "2.0.9",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-16T21:34:13.119Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@benborla29/mcp-server-mysql@2.0.9",
+    "integrity": "sha512-hjLuI/UOe7t/xwREMGHtB3gGJn8lyvCsv65HT+ePYDKZfBFbirDzxJAaIsAg1DJwlVTMiw0Oq88PpJkRyl1+SQ=="
+  },
+  "signature": "bN7lPb5sRXmcfiOUlowfM0QXr+QWZuW1UwErZngq1U373l2ANNw3Cf3u2KhjS98uimiEFp1jM6wyA5FSQQwcDQ=="
+}

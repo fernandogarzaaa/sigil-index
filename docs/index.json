@@ -1,5 +1,5 @@
 {
-  "count": 94,
+  "count": 98,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -421,6 +421,32 @@
         "integrity": "sha512-thQATkB1yxMdzNR1HkargPGa7g2H25mMuNS4Zh3VF62ZBaGRh5XRXcJt0WQU0plM8PkbVFohOtyvUO9INYNkgQ=="
       },
       "path": "badges/mapbox-mcp-server/0.16.0.json",
+      "status": "active"
+    },
+    {
+      "server": "@microsoft/clarity-mcp-server",
+      "version": "2.0.1",
+      "riskScore": 95,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 100,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-17T21:26:51.669Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@microsoft/clarity-mcp-server@2.0.1",
+        "integrity": "sha512-0T4vnPdoY7MDbsHWTQjRknS0ICcHjAZe7xGs7rh0hPhN8g809Ez1G6Kw/iuI+XdJ12CJUTsQSCpTaqRvH9gg6w=="
+      },
+      "path": "badges/microsoft-clarity-mcp-server/2.0.1.json",
       "status": "active"
     },
     {
@@ -944,6 +970,28 @@
       "status": "active"
     },
     {
+      "server": "@theia/ai-mcp-server",
+      "version": "1.76.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-17T21:29:46.527Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@theia/ai-mcp-server@1.76.0",
+        "integrity": "sha512-NL+lp63qMBp1btWP+Ly3hgmBloL0nX8LNrIZ/j7+zQglkvDuyTAlWWaJ8hn0VyTbw1oGq8uMrzgOu9H2A1dWhQ=="
+      },
+      "path": "badges/theia-ai-mcp-server/1.76.0.json",
+      "status": "active"
+    },
+    {
       "server": "@transcend-io/mcp-server-admin",
       "version": "1.1.3",
       "riskScore": 100,
@@ -1253,6 +1301,28 @@
         "integrity": "sha512-5i11VORUgqnMcrP4HDWFEcejR/r2mxXTvAtw6MZ+iQa+CfmPPfktvUekxGrOyBskuoIdX3hAVOAX6bbbEP+W4w=="
       },
       "path": "badges/xeroapi-xero-mcp-server/0.0.17.json",
+      "status": "active"
+    },
+    {
+      "server": "@z_ai/mcp-server",
+      "version": "0.1.5",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-17T21:26:28.841Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@z_ai/mcp-server@0.1.5",
+        "integrity": "sha512-zbZaVIUtsGjlc9oI/E+/gLfhylcZLGUfS356Zte9hdufSqmnIXw9lzhH07fIiHr4t+S3VDnV0A1v0XeRuhuiNA=="
+      },
+      "path": "badges/z_ai-mcp-server/0.1.5.json",
       "status": "active"
     },
     {
@@ -1759,6 +1829,32 @@
       "path": "badges/fixture-server/0.1.0.json",
       "status": "revoked",
       "revocationReason": "Demo badge signed with a throwaway test key; revoked to demonstrate the revocation lifecycle."
+    },
+    {
+      "server": "hello-world",
+      "version": "1.1.2",
+      "riskScore": 89,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 93,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 2,
+        "info": 3
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-17T21:27:24.669Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "mcp-hello-world@1.1.2",
+        "integrity": "sha512-g38YEyrda27qouiryVN3/fKOetGsaacXI58hIVLQlsJmp+L/T9vCG89eJiuxQZAqRlZ7amBjPgdgKmcZK7kY+w=="
+      },
+      "path": "badges/hello-world/1.1.2.json",
+      "status": "active"
     },
     {
       "server": "Heroku MCP Server",

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@microsoft/clarity-mcp-server",
+  "version": "2.0.1",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 100,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 1
+  },
+  "evalHash": "e1363f9d9577808c28937cbf136ce4cf463a4c6db4f78f5a169dc09ddd35e51f",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-17T21:26:51.669Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@microsoft/clarity-mcp-server@2.0.1",
+    "integrity": "sha512-0T4vnPdoY7MDbsHWTQjRknS0ICcHjAZe7xGs7rh0hPhN8g809Ez1G6Kw/iuI+XdJ12CJUTsQSCpTaqRvH9gg6w=="
+  },
+  "signature": "ZAOz6kZX121Fb3aBJvtc+eFoHban0qX/tc413RDx8GdExLh8ZgfKKArcER/5nafmhZCVUewB+0W2IofCEt8ZAA=="
+}

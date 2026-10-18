@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Elgato MCP Server",
+  "version": "0.1.8",
+  "riskScore": 96,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 100,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 0
+  },
+  "evalHash": "63164ef5f1d2c3fe0de80db759a7d04d36b4d48d26df0326c488d0793cc5bc76",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-18T21:28:38.354Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@elgato/mcp-server@0.1.8",
+    "integrity": "sha512-DjWIDbaNNe/JypRY0UgsXIJ6hFTcnKSxebcBXonefXILXIOsg/EQxdRepQajImqvzw+DC+kJ70OleOOfDpD70g=="
+  },
+  "signature": "0Aoz9Qv5QDX0FkUdxleXId8mO0lohMs2KdKoZ9cPRkrtmYx2NIL9WUoFKsU2uD5s9eBuWyEBLg1uYfKoxmPJBg=="
+}

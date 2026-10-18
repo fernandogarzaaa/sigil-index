@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@azure/mcp",
+  "version": "3.0.0",
+  "riskScore": 83,
+  "riskLevel": "medium",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 1,
+    "minor": 1,
+    "info": 1
+  },
+  "evalHash": "a11395503128049907c0355e22ef7722b0b33ce864f187f3efa89e70e1f0d4a9",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-18T21:31:32.225Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@azure/mcp@3.0.0",
+    "integrity": "sha512-Ed5wEu6KC9rVMUMRdCIZPOb5jy6xCo2B++aBsAnDcGtE6wI2521aZwxa8cO5Y++SktYxkkCEAWGGAfPrRVnIWg=="
+  },
+  "signature": "9xeG36kOvp5OFcdnXBmCeY1ahoypE6feu2qMSl+DnD9ox0JpGZOQfI/EaYgeB2ZHTURfOuDHWlEE4OL4qw92CA=="
+}

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "hostinger-api-mcp",
+  "version": "3.1.0",
+  "riskScore": 61,
+  "riskLevel": "high",
+  "scores": {
+    "mcp.schemaQuality": 99,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 8,
+    "info": 7
+  },
+  "evalHash": "3d17c86b9a4b332805a369b1ca1d430dc00249a2d578c4706c4078f2a2e37947",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-18T21:29:32.191Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@hostinger/mcp@3.1.0",
+    "integrity": "sha512-BGyJilzOfJBBU7teV4/Y/sLKcMM/OjQOAiNsDhtkXXXB0AfcT0IskzbtyCcc7fC/hA1InkyTJDjKHWlkosTt9Q=="
+  },
+  "signature": "lpdFh9IaHlH9hwAr9JUCRJqsYBSWwWbvDuwmXEeymh1f7LJBDuZHyxP1qXLSt+Ophnm8nQMS+70RKf7kGD+vAw=="
+}

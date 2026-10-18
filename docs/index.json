@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 102,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -197,6 +197,28 @@
         "integrity": "sha512-Wwd3kszlm+ag43X1fs7+kOt7ACLXF+hymNYQA8hzvbIFtrKsKmhrU6gnU1rsOqQEnueFR1rQLGNvjB3uA3AngA=="
       },
       "path": "badges/azure-devops-mcp/2.10.0.json",
+      "status": "active"
+    },
+    {
+      "server": "@azure/mcp",
+      "version": "3.0.0",
+      "riskScore": 83,
+      "riskLevel": "medium",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 1,
+        "minor": 1,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-18T21:31:32.225Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@azure/mcp@3.0.0",
+        "integrity": "sha512-Ed5wEu6KC9rVMUMRdCIZPOb5jy6xCo2B++aBsAnDcGtE6wI2521aZwxa8cO5Y++SktYxkkCEAWGGAfPrRVnIWg=="
+      },
+      "path": "badges/azure-mcp/3.0.0.json",
       "status": "active"
     },
     {
@@ -1260,6 +1282,28 @@
       "status": "active"
     },
     {
+      "server": "@upstash/mcp-server",
+      "version": "0.3.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-18T21:30:44.671Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@upstash/mcp-server@0.3.0",
+        "integrity": "sha512-lkdnEOFYUf3qxhBnejW1jaGC4vUHhGqjjzuTSeJDM3ztQhxzbmejyNcqyM7aNrqcPC4J8wtas8xeQcfb7x56YA=="
+      },
+      "path": "badges/upstash-mcp-server/0.3.0.json",
+      "status": "active"
+    },
+    {
       "server": "@winor30/mcp-server-datadog",
       "version": "1.8.0",
       "riskScore": 100,
@@ -1656,6 +1700,32 @@
       "status": "active"
     },
     {
+      "server": "Elgato MCP Server",
+      "version": "0.1.8",
+      "riskScore": 96,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 100,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-18T21:28:38.354Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@elgato/mcp-server@0.1.8",
+        "integrity": "sha512-DjWIDbaNNe/JypRY0UgsXIJ6hFTcnKSxebcBXonefXILXIOsg/EQxdRepQajImqvzw+DC+kJ70OleOOfDpD70g=="
+      },
+      "path": "badges/elgato-mcp-server/0.1.8.json",
+      "status": "active"
+    },
+    {
       "server": "ESLint",
       "version": "0.3.14",
       "riskScore": 94,
@@ -1884,6 +1954,32 @@
     },
     {
       "server": "hostinger-api-mcp",
+      "version": "3.1.0",
+      "riskScore": 61,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 99,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 8,
+        "info": 7
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-18T21:29:32.191Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@hostinger/mcp@3.1.0",
+        "integrity": "sha512-BGyJilzOfJBBU7teV4/Y/sLKcMM/OjQOAiNsDhtkXXXB0AfcT0IskzbtyCcc7fC/hA1InkyTJDjKHWlkosTt9Q=="
+      },
+      "path": "badges/hostinger-api-mcp/3.1.0.json",
+      "status": "active"
+    },
+    {
+      "server": "hostinger-api-mcp",
       "version": "2.8.0",
       "riskScore": 61,
       "riskLevel": "high",
@@ -1906,7 +2002,7 @@
         "integrity": "sha512-4vDouKHxEbJW2UgSo+rY594hlrQ6XTo5cUuyfchsyUf/3YHzAaG9EfKxt4W88WMfxWhQw0CWGccqvm0D5y8mag=="
       },
       "path": "badges/hostinger-api-mcp/2.8.0.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "kibana-mcp-server",

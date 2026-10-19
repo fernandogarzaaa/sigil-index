@@ -1,6 +1,28 @@
 {
-  "count": 102,
+  "count": 107,
   "badges": [
+    {
+      "server": "@apify/actors-mcp-server",
+      "version": "0.19.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-19T21:24:14.491Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.19.0",
+        "integrity": "sha512-7sPQZvV+3vP0ek72e9lwTMJY5N8/ypN5tisy5SLAL42DeK9WzLlEwW7NETxDRDsKUTvvEKRcjlm8Kr+IhLz7Pg=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.19.0.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.18.4",
@@ -21,7 +43,7 @@
         "integrity": "sha512-NBffjNbgJN0hB9746wR5TQPVcyZ09T8ZtfdOVevURbWZxDLLg47Gd05SMT2Z+vg7y+2P/Mq3zpCifBB0e48+Xg=="
       },
       "path": "badges/apify-actors-mcp-server/0.18.4.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -244,6 +266,28 @@
       "status": "active"
     },
     {
+      "server": "@brave/brave-search-mcp-server",
+      "version": "2.1.4",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-19T21:31:15.994Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@brave/brave-search-mcp-server@2.1.4",
+        "integrity": "sha512-a34HBs6os4Ilp0yHPV/j3UrgBQH1uTDLsNA9y5IlO30RCYUFm9QPfC0coh2c7WEDxKcHuWjVsrfuXIJNheu9YA=="
+      },
+      "path": "badges/brave-brave-search-mcp-server/2.1.4.json",
+      "status": "active"
+    },
+    {
       "server": "@browserstack/mcp-server",
       "version": "2.2.2",
       "riskScore": 100,
@@ -395,6 +439,28 @@
         "integrity": "sha512-SO2OGIUIfq3BNXSbMWbdyKwSp+5u9uP9yt4KDyjwer4pz+KIee1wXhkSZF1VmiJlJ0t+Maukn+Q3ajjsfAtDfA=="
       },
       "path": "badges/iobroker-mcp-server/1.1.3.json",
+      "status": "active"
+    },
+    {
+      "server": "@ivotoby/openapi-mcp-server",
+      "version": "1.16.1",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-19T21:28:26.440Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@ivotoby/openapi-mcp-server@1.16.1",
+        "integrity": "sha512-PCgNRTSNQ5rf4dUsAgkB0slVJ4TkV3zLRrblT47Sp7EVjtNsbSfuY79cIl4h+hjVBMVs/1AyXEcTJ2rOtllrJQ=="
+      },
+      "path": "badges/ivotoby-openapi-mcp-server/1.16.1.json",
       "status": "active"
     },
     {
@@ -948,6 +1014,28 @@
       "status": "active"
     },
     {
+      "server": "@sigmacomputing/slack-mcp-server",
+      "version": "0.1.1",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-19T21:30:06.019Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@sigmacomputing/slack-mcp-server@0.1.1",
+        "integrity": "sha512-vSOBlbDKvTkeqx4BPncchbgLoL2QfJMjRDGrmY/CyPoVOYN4bEkAxZB5NRSwuXVMIPM91T3NjFUdMX4P33yMtg=="
+      },
+      "path": "badges/sigmacomputing-slack-mcp-server/0.1.1.json",
+      "status": "active"
+    },
+    {
       "server": "@stripe/mcp",
       "version": "0.3.3",
       "riskScore": 100,
@@ -967,6 +1055,28 @@
         "integrity": "sha512-Ra7keWg5GKDQ7RUIDa8L3ClKMsmhsJVAXG2/rYeaICEHjyMHYhD9KL2BWVqOqr1IjQwhnA8qbf+Tnb4x09DLyQ=="
       },
       "path": "badges/stripe-mcp/0.3.3.json",
+      "status": "active"
+    },
+    {
+      "server": "@supabase/mcp-server-postgrest",
+      "version": "0.2.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-19T21:30:50.960Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@supabase/mcp-server-postgrest@0.2.0",
+        "integrity": "sha512-zAP1pxVQe6Byzw1V3ZoKgNaHY1t5SNbTGkSJ0nRM+V+QV42V9jDOBtQ037wfyViSa1plLdaVwMy213dy1NXPhA=="
+      },
+      "path": "badges/supabase-mcp-server-postgrest/0.2.0.json",
       "status": "active"
     },
     {

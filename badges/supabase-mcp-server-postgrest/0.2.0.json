@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@supabase/mcp-server-postgrest",
+  "version": "0.2.0",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-19T21:30:50.960Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@supabase/mcp-server-postgrest@0.2.0",
+    "integrity": "sha512-zAP1pxVQe6Byzw1V3ZoKgNaHY1t5SNbTGkSJ0nRM+V+QV42V9jDOBtQ037wfyViSa1plLdaVwMy213dy1NXPhA=="
+  },
+  "signature": "I5qkD4Yd01+CDCK5fb0hzkHofCfu9vRlLJ8fyzzOjntZnLAaJXrgaN9ipW2NuKW0q86uEzhjeXM97ILPQA7ZBg=="
+}

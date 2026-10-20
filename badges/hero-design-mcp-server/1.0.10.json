@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "hero-design-mcp-server",
+  "version": "1.0.10",
+  "riskScore": 96,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 100,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 0
+  },
+  "evalHash": "7a84bb4f5900b43827489576b8da266afa8da069921b4662d97e5bcf93447053",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-20T21:27:20.437Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@ehrocks/fe-mcp-server@1.0.10",
+    "integrity": "sha512-AwRhcBqO4zatN03gZ4Zyrsj1ZjYTh2Nyz0Fv9rCDbvvutBCYG2yEiKyQL6GI4/7PjgAuqgmJe8te8pa4bpaIwQ=="
+  },
+  "signature": "dzBvCtlieJeENZ+qmDgr2ELb1mf6aCJhvz2jOGcZBUL2Vcnw3yOVnh0eXHWgXA0cIXLyBt7v1TQXFBd+RuF0CA=="
+}

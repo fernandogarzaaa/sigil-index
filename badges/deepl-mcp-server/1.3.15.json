@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "deepl-mcp-server",
+  "version": "1.3.15",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-20T21:26:50.479Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "deepl-mcp-server@1.3.15",
+    "integrity": "sha512-77Cqp+REbMRGdQ3tMrTRvz1F97nb14tHtIosDWnvyWsE7gucJG699hk2wAjncVqVJOKb4nJEoTPnbnxVkB6ObA=="
+  },
+  "signature": "QsqIUbCLfKJTsdHy1/jA14rZJMmSRFY6M7+Azx1tjhq66Mz3RdSx6loLLvCq9HBqTa5XknL1fe0H8Jv/KuoGAw=="
+}

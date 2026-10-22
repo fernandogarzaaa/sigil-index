@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@superblocksteam/mcp-server",
+  "version": "2.0.171",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-22T21:33:01.644Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@superblocksteam/mcp-server@2.0.171",
+    "integrity": "sha512-z+afXlrJFIW5MWbaGnZGPBZwf9TGnuMpFZVC7SFcfSR3n9cwT9DAScSe1jacvFUWVD1+Hv41TerjqAwSkUeUyg=="
+  },
+  "signature": "hAbexmE78LJXXcIlFw3p2v7QNJUFgbEKhSeO8zJ7FNsUEIpz45NehW9tOQ7XFfpUDNiVJWrN3oLzwXrD1KCOAg=="
+}

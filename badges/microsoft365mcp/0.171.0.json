@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Microsoft365MCP",
+  "version": "0.171.0",
+  "riskScore": 0,
+  "riskLevel": "high",
+  "scores": {
+    "mcp.schemaQuality": 0,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 15,
+    "info": 94
+  },
+  "evalHash": "39e022b043bdd6c2cddc328f85c8a01a6dbd4a0c345850f58713928176196530",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0",
+    "kty": "OKP"
+  },
+  "issuedAt": "2026-10-22T21:29:46.296Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@softeria/ms-365-mcp-server@0.171.0",
+    "integrity": "sha512-Pd6aylyyUT1h1c488CMgs53dOlvvGBuIYCJcvGHzhK3Db1OARcBhjMkQWjSO+G6diPwiIS1eGg0MLaVzDKB9mw=="
+  },
+  "signature": "+SW89xRHsWvoSmSvBSMMxb5yhASkii3cDlLFcYrZCZOAHatMhaAfk5jeKaNwvlWsNPhHNugSa1+xsgMwDaBYAw=="
+}

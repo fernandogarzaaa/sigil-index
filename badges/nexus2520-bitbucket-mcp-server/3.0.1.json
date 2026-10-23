@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@nexus2520/bitbucket-mcp-server",
+  "version": "3.0.1",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-23T21:31:44.126Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@nexus2520/bitbucket-mcp-server@3.0.1",
+    "integrity": "sha512-1ubQ8YYE+XH3CM26mThDCvWyyYJgFHjjkaEoCFSEW1+lKxR0EFy81CNHDfKPVS9IkzVLhJrDBtkVVbHlZXQD1Q=="
+  },
+  "signature": "jJJ9mSqAg7vMVOs6cPHEDQaZdbhcwgxMnMBlN1rK1szfZYpxSvtuEy2UmZu5EJzFW3JEconMZ5FYBOQ7lKigAA=="
+}

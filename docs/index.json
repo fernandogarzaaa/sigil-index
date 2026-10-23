@@ -1,5 +1,5 @@
 {
-  "count": 117,
+  "count": 121,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -922,6 +922,28 @@
       "status": "active"
     },
     {
+      "server": "@nexus2520/bitbucket-mcp-server",
+      "version": "3.0.1",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-23T21:31:44.126Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@nexus2520/bitbucket-mcp-server@3.0.1",
+        "integrity": "sha512-1ubQ8YYE+XH3CM26mThDCvWyyYJgFHjjkaEoCFSEW1+lKxR0EFy81CNHDfKPVS9IkzVLhJrDBtkVVbHlZXQD1Q=="
+      },
+      "path": "badges/nexus2520-bitbucket-mcp-server/3.0.1.json",
+      "status": "active"
+    },
+    {
       "server": "@notionhq/notion-mcp-server",
       "version": "2.5.2",
       "riskScore": 82,
@@ -1506,6 +1528,28 @@
       "status": "active"
     },
     {
+      "server": "@voltagent/mcp-server",
+      "version": "2.2.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-23T21:34:07.876Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@voltagent/mcp-server@2.2.0",
+        "integrity": "sha512-N1Xtrnu8sLOjfPn4H/OJWk2bKf9ETrmw6kVfTEKJZx+q4WwxqJmtH4Advx4aBiP/ogjEVH0vBMi8qB9BrlFONg=="
+      },
+      "path": "badges/voltagent-mcp-server/2.2.0.json",
+      "status": "active"
+    },
+    {
       "server": "@winor30/mcp-server-datadog",
       "version": "1.8.0",
       "riskScore": 100,
@@ -1891,6 +1935,32 @@
         "integrity": "sha512-2EXNxuztSIW3fQw6OEGMek39M8yQlKinXooMYtNR4wRLhtA+f3b0cbxBggAfDeKemMWltm1qWQy/t2Av9VmYLw=="
       },
       "path": "badges/desktop-commander/0.3.0.json",
+      "status": "active"
+    },
+    {
+      "server": "doit-mcp-server",
+      "version": "2.7.0",
+      "riskScore": 0,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 0,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 8,
+        "info": 137
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-23T21:29:11.206Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@doitintl/doit-mcp-server@2.7.0",
+        "integrity": "sha512-ix2MFe0YHfowLNS8+dx/mI1NPx52ANAlEqmnRpybissu/GfdhihhU9ZFOO8aEeBWucZcWCkYqaNWFlqGsmTuHg=="
+      },
+      "path": "badges/doit-mcp-server/2.7.0.json",
       "status": "active"
     },
     {
@@ -2300,6 +2370,32 @@
         "integrity": "sha512-xAmtdUh+yMFzkP/OtbwDprqgsey9wk5ATMNVwmZHbXVayb5nQNyYSIzJtWcI8pwlEcnNjFBbU+BbpyCiRI7wRQ=="
       },
       "path": "badges/kibana-mcp-server/0.11.1.json",
+      "status": "active"
+    },
+    {
+      "server": "Knip",
+      "version": "0.0.36",
+      "riskScore": 94,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 98,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 2
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-23T21:32:30.221Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@knip/mcp@0.0.36",
+        "integrity": "sha512-buqaNx77/sibuS1VihwUuPh91MFxQHAR0co1CCqoQiUW0IvzXXmuEAhbCgxzxiuj5cYB67cluic8drC6HsfeLA=="
+      },
+      "path": "badges/knip/0.0.36.json",
       "status": "active"
     },
     {

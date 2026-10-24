@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@sap/mdk-mcp-server",
+  "version": "0.4.2",
+  "riskScore": 96,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 4
+  },
+  "evalHash": "48428a39826078a26e237499dde002d571cc63bbc45333deed0d56b6b2e6d85b",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-24T21:35:56.601Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@sap/mdk-mcp-server@0.4.2",
+    "integrity": "sha512-kYjKPoPG8Frw0dGXy6wSg93WpDFgc1PuSa0xsz2de0UkmzTMt+hsd2VMkW3S1Ay1LmtoCOD4QkxzMV8iu5MzOg=="
+  },
+  "signature": "ShDEiAOoFwgjN26XU92IFaRPBNEcK9Zoi7n4nFeQUMQPpircTQa6G5lg7ZJWyKoiWbrocjR/tsBSMTFn00pyCQ=="
+}

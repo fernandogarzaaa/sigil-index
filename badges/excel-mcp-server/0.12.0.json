@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "excel-mcp-server",
+  "version": "0.12.0",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 100,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 1
+  },
+  "evalHash": "c0f0b579ca7a1851e0934e1aab16f97efbba327ffd18ee693375a70211ffa064",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-24T21:25:51.024Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@negokaz/excel-mcp-server@0.12.0",
+    "integrity": "sha512-d42FfomnLrqT/Z6lCBWTCUxuMpWIp3dgvII6kLYZBRaZlOe4h/rMxFfe5Odkryoeo1H8HxJhdLnDhkINsNuDxw=="
+  },
+  "signature": "EM0L8/IRGzhnqhJxpZE1CdC9ZaBP21hDuUJxr+2SsrnO+f8oTzXnwjitO53veywYEQvoLBZLh36HDqmjd+flCg=="
+}

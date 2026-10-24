@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 124,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -1062,6 +1062,28 @@
       "status": "active"
     },
     {
+      "server": "@sap/mdk-mcp-server",
+      "version": "0.4.2",
+      "riskScore": 96,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 4
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-24T21:35:56.601Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@sap/mdk-mcp-server@0.4.2",
+        "integrity": "sha512-kYjKPoPG8Frw0dGXy6wSg93WpDFgc1PuSa0xsz2de0UkmzTMt+hsd2VMkW3S1Ay1LmtoCOD4QkxzMV8iu5MzOg=="
+      },
+      "path": "badges/sap-mdk-mcp-server/0.4.2.json",
+      "status": "active"
+    },
+    {
       "server": "@sentry/mcp-server",
       "version": "0.42.0",
       "riskScore": 100,
@@ -1890,6 +1912,32 @@
       "status": "active"
     },
     {
+      "server": "dbx",
+      "version": "0.4.130",
+      "riskScore": 90,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 95,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 6
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-24T21:30:38.328Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@dbx-app/mcp-server@0.4.130",
+        "integrity": "sha512-i/qmj6+VHTZSo4Kfv/tRQRTxpXv8Igfr4kZZoTwZ7JvHNlK0S3v7C58uMiaOpguPoRX8gssji3AXwkXGvBDFwA=="
+      },
+      "path": "badges/dbx/0.4.130.json",
+      "status": "active"
+    },
+    {
       "server": "deepl-mcp-server",
       "version": "1.3.15",
       "riskScore": 100,
@@ -2087,6 +2135,32 @@
         "integrity": "sha512-3GUZAfhg+uL5aAHwNO2TC6q9PNz7FDoDMbxXkoVga26paBGqZveja4SEEbfhNarBww4QLXFwzlDfbx8EwNX85g=="
       },
       "path": "badges/exa-mcp/0.0.7.json",
+      "status": "active"
+    },
+    {
+      "server": "excel-mcp-server",
+      "version": "0.12.0",
+      "riskScore": 95,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 100,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-24T21:25:51.024Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@negokaz/excel-mcp-server@0.12.0",
+        "integrity": "sha512-d42FfomnLrqT/Z6lCBWTCUxuMpWIp3dgvII6kLYZBRaZlOe4h/rMxFfe5Odkryoeo1H8HxJhdLnDhkINsNuDxw=="
+      },
+      "path": "badges/excel-mcp-server/0.12.0.json",
       "status": "active"
     },
     {

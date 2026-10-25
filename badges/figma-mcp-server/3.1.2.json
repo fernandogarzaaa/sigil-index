@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "figma-mcp-server",
+  "version": "3.1.2",
+  "riskScore": 91,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 2,
+    "info": 1
+  },
+  "evalHash": "5b882def039f2abcb9aa4a7f479797a3d8b5f48924735ad6eb95b71b74617e78",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-25T21:28:25.467Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "figma-mcp-server@3.1.2",
+    "integrity": "sha512-jPmEKF38dxiFX1tnsT08dsrpwEyJ4FuiNs75YrQ6VPmGFT5imuICkrtDnHcYCiHwDwx65qQfoaA69/vrw91MFA=="
+  },
+  "signature": "avaZTGW5Hb2Pwbg540drsKDl8mnpY2N+Y0fM5g2Mz8qdhrVTW7KAI2Jtzz/Z80g3XzcZTvECW18wCQlsbWjbDg=="
+}

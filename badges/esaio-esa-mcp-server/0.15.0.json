@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@esaio/esa-mcp-server",
+  "version": "0.15.0",
+  "riskScore": 98,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 2
+  },
+  "evalHash": "4ea0291a7140cc144bc3a1bc67a87689a23ac9c87b43eff6526ed23224169e17",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-25T21:26:55.488Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@esaio/esa-mcp-server@0.15.0",
+    "integrity": "sha512-uq0YmDv2yZSJ1G2MPbwKe3uht5NtTsDOZcG67h4pNXQii95U6yQHy9GTGYQWBnSiEGka7p8iGiQLo9LRpinULw=="
+  },
+  "signature": "2Uzkcj8/sv0PJmBirkOF5uixDLt91D+x92hFqngUz5jEtkxD+/+7TzJlKzmUhjx97cjQV1Zbep6JUjEzD6JqBw=="
+}

@@ -1,5 +1,5 @@
 {
-  "count": 124,
+  "count": 128,
   "badges": [
     {
       "server": "@apify/actors-mcp-server",
@@ -439,6 +439,50 @@
         "integrity": "sha512-Zq4nPybp+s2MtGjmOzB8dVjP4qUUbGc0GiaTHMwlSIInrm7xegzuXPUm7689++ho3mGVVMhBw90WV+qLtY/b8Q=="
       },
       "path": "badges/currents-mcp/2.6.1.json",
+      "status": "active"
+    },
+    {
+      "server": "@esaio/esa-mcp-server",
+      "version": "0.15.0",
+      "riskScore": 98,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 2
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-25T21:26:55.488Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@esaio/esa-mcp-server@0.15.0",
+        "integrity": "sha512-uq0YmDv2yZSJ1G2MPbwKe3uht5NtTsDOZcG67h4pNXQii95U6yQHy9GTGYQWBnSiEGka7p8iGiQLo9LRpinULw=="
+      },
+      "path": "badges/esaio-esa-mcp-server/0.15.0.json",
+      "status": "active"
+    },
+    {
+      "server": "@gongrzhe/server-gmail-autoauth-mcp",
+      "version": "1.1.11",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-25T21:28:05.324Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@gongrzhe/server-gmail-autoauth-mcp@1.1.11",
+        "integrity": "sha512-IP9nbCmJZ5h8wrtld0LBpJCV7coyfeOrhsNdPhIbkFzKBmgf06Gy4bnsr3zVOi8Leey0az3s4UPIdcQmIb/iJw=="
+      },
+      "path": "badges/gongrzhe-server-gmail-autoauth-mcp/1.1.11.json",
       "status": "active"
     },
     {
@@ -2164,6 +2208,28 @@
       "status": "active"
     },
     {
+      "server": "figma-mcp-server",
+      "version": "3.1.2",
+      "riskScore": 91,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 2,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-25T21:28:25.467Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "figma-mcp-server@3.1.2",
+        "integrity": "sha512-jPmEKF38dxiFX1tnsT08dsrpwEyJ4FuiNs75YrQ6VPmGFT5imuICkrtDnHcYCiHwDwx65qQfoaA69/vrw91MFA=="
+      },
+      "path": "badges/figma-mcp-server/3.1.2.json",
+      "status": "active"
+    },
+    {
       "server": "fiori-mcp",
       "version": "1.15.0",
       "riskScore": 10,
@@ -2419,6 +2485,32 @@
       },
       "path": "badges/hostinger-api-mcp/2.8.0.json",
       "status": "superseded"
+    },
+    {
+      "server": "hugeicons-mcp",
+      "version": "0.2.2",
+      "riskScore": 95,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 95,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 5
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-25T21:28:44.319Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@hugeicons/mcp-server@0.2.2",
+        "integrity": "sha512-mmJQ2+hZ7S2CKPMjp3rxxD36jlUrVEHwsxcBlue5zg+vRlwL0eZt1KJIIOMvMhNE3Pt7bkcvx2CeEx2dDwFM3w=="
+      },
+      "path": "badges/hugeicons-mcp/0.2.2.json",
+      "status": "active"
     },
     {
       "server": "kibana-mcp-server",

@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "hugeicons-mcp",
+  "version": "0.2.2",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 95,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 5
+  },
+  "evalHash": "d3e39297ffeb68e47f88b0db82f2d505e430e1e695aa7275025372eddbe4f9c1",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-25T21:28:44.319Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@hugeicons/mcp-server@0.2.2",
+    "integrity": "sha512-mmJQ2+hZ7S2CKPMjp3rxxD36jlUrVEHwsxcBlue5zg+vRlwL0eZt1KJIIOMvMhNE3Pt7bkcvx2CeEx2dDwFM3w=="
+  },
+  "signature": "iUIAmVadcI7Pd+R22GKU4kVmDD/rACdMT8SwgY4SE35gDb8lsf+PtnqzilMMQ+tLpK/XjB+drR72TB5fAqRADw=="
+}

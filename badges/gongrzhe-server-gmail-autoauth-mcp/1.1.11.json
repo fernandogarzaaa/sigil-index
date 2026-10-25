@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@gongrzhe/server-gmail-autoauth-mcp",
+  "version": "1.1.11",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-25T21:28:05.324Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@gongrzhe/server-gmail-autoauth-mcp@1.1.11",
+    "integrity": "sha512-IP9nbCmJZ5h8wrtld0LBpJCV7coyfeOrhsNdPhIbkFzKBmgf06Gy4bnsr3zVOi8Leey0az3s4UPIdcQmIb/iJw=="
+  },
+  "signature": "ma4As7Mm0TvKhF65dqiJOD4QWkIj00bG+21jnHY18CXmoVB7wfFOenFGcScJxjp1JTGxVchYt0fDhxwbKBi+BQ=="
+}

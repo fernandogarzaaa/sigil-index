@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "motiff-mcp-server",
+  "version": "0.0.19",
+  "riskScore": 96,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 96,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 4
+  },
+  "evalHash": "d9e1ca9376b8ae876ef38079f381f4f7b116783a9d191b34cebf6683f196cf2b",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-27T21:26:00.031Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@motiffcom/motiff-mcp-server@0.0.19",
+    "integrity": "sha512-xFT5Xh9qWyD2NcC1iHQqAxBGYoLgMjdEOZRaBZwgmrZID5Vw7bWKnEpLH+JLny4rkDzjwY3NDoYlPm9dmASVRQ=="
+  },
+  "signature": "o+0OYv+EngsSwK0g5a6PNcmKbmvzPTvRhK6PWnc7M5poPf6hPITdoftRJt41VC1gDwP5bFnWUI4q2JaYnfPyBg=="
+}

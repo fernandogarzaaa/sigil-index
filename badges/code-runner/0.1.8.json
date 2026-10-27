@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Code Runner",
+  "version": "0.1.8",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 99,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 1
+  },
+  "evalHash": "c3bd88430a9b978832c03276e2654c862245fa1ee03718563cee0962b2222d28",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-27T21:30:19.615Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "mcp-server-code-runner@0.1.8",
+    "integrity": "sha512-E7vblFTD/Q99mieJ0xlkVAg3MeD7XREKcoSnmXn9OJ5gFD0BOA/2ljroIkflNH86R7pBQNGBjSIVbrVcCLGRaw=="
+  },
+  "signature": "ZgGOakAgGd1iq8mMWkNwuIMGLOS6DA21cdO8nbqXI2D8h9slY/HWHqr52DsPEcm+X4IqQeW4RGV7yK6Xt7uECw=="
+}

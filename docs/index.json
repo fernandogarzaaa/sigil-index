@@ -1,6 +1,28 @@
 {
-  "count": 137,
+  "count": 141,
   "badges": [
+    {
+      "server": "@angelogiacco/elevenlabs-mcp-server",
+      "version": "1.0.4",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-28T21:29:46.272Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@angelogiacco/elevenlabs-mcp-server@1.0.4",
+        "integrity": "sha512-Uu3GDh8j2Zz3xg00vVsEn85JSM+ydWV1MxCDtDbNYPvvXcTOS/drM+vGqIgvwVdZFiTjJUDP1R7WFnWvbV9udQ=="
+      },
+      "path": "badges/angelogiacco-elevenlabs-mcp-server/1.0.4.json",
+      "status": "active"
+    },
     {
       "server": "@apify/actors-mcp-server",
       "version": "0.19.5",
@@ -310,6 +332,28 @@
       "status": "active"
     },
     {
+      "server": "@battlegrid/mcp-server",
+      "version": "32.0.57",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-28T21:30:27.007Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@battlegrid/mcp-server@32.0.57",
+        "integrity": "sha512-1BJV3+3UVA6RTwYCnQDvX4kRJMpYQh3u0h7IDNSMWjSYkbm0pmctAV4VsU+KBNkwl+W1ji4SWbNMd+6WabBg1A=="
+      },
+      "path": "badges/battlegrid-mcp-server/32.0.57.json",
+      "status": "active"
+    },
+    {
       "server": "@benborla29/mcp-server-mysql",
       "version": "2.0.9",
       "riskScore": 100,
@@ -505,6 +549,28 @@
         "integrity": "sha512-IP9nbCmJZ5h8wrtld0LBpJCV7coyfeOrhsNdPhIbkFzKBmgf06Gy4bnsr3zVOi8Leey0az3s4UPIdcQmIb/iJw=="
       },
       "path": "badges/gongrzhe-server-gmail-autoauth-mcp/1.1.11.json",
+      "status": "active"
+    },
+    {
+      "server": "@google-cloud/gcloud-mcp",
+      "version": "0.5.3",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-28T21:32:25.865Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@google-cloud/gcloud-mcp@0.5.3",
+        "integrity": "sha512-kfTcqDklnOPEvM5bfqaNLmoFVLSmHHmtH7ZuVAOt+BFNCD+QsOtg2koIolAhZA6RpZbeuzbxW0lgy0y+rR3Jwg=="
+      },
+      "path": "badges/google-cloud-gcloud-mcp/0.5.3.json",
       "status": "active"
     },
     {
@@ -3032,6 +3098,32 @@
         "integrity": "sha512-B2bcobQQhEgA4TMl+g6MJBa09kdHhnxKJTKtu7ze5BhSvMi9KyVEp+fBXUBBp1QkKLeNLQcLQw4iZdqZ6HklwQ=="
       },
       "path": "badges/qase-mcp-server/2.7.5.json",
+      "status": "active"
+    },
+    {
+      "server": "salesforce-mcp-server",
+      "version": "0.0.8",
+      "riskScore": 88,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 92,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 8
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-28T21:27:11.720Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@tsmztech/mcp-server-salesforce@0.0.8",
+        "integrity": "sha512-DFjr8jY+bwmPQUxFe0BJ0wcpb6DP/8SJr2sQBJbnxtdH6HOWJAcY8CCLwpQtW3DUQAW6jRaKDL+lfrDJxSc3NQ=="
+      },
+      "path": "badges/salesforce-mcp-server/0.0.8.json",
       "status": "active"
     },
     {

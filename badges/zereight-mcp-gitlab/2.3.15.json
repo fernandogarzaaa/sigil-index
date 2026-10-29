@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@zereight/mcp-gitlab",
+  "version": "2.3.15",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-29T21:29:51.564Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@zereight/mcp-gitlab@2.3.15",
+    "integrity": "sha512-Cbl0hog0YA1Sp+xEowc9QDEq/Sii15M2oQLoFOZ17VpPu+6X6RuKULr2LQ3tjP82JUhsABM2R8hBQVtr5avOOw=="
+  },
+  "signature": "6HYxqrdVOIgAb1RAiuHzsIRGj+2RbHjxE7HKEXHhC40V9C6ZwjpGXG3aH6G7YrXYA1/grWRg6dVfslDO18imDA=="
+}

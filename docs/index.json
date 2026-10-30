@@ -1,5 +1,5 @@
 {
-  "count": 146,
+  "count": 150,
   "badges": [
     {
       "server": "@angelogiacco/elevenlabs-mcp-server",
@@ -1946,6 +1946,28 @@
       "status": "active"
     },
     {
+      "server": "agentation-mcp",
+      "version": "1.3.2",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-30T21:33:31.732Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "agentation-mcp@1.3.2",
+        "integrity": "sha512-1h3k6kj2ttzahwtMYGyfmrbYZMA3A5/mQwczFmQTfkNb2mgh5DyYG4uUjEbAaAz+a4LCDKahLmC050Gg8uY3tw=="
+      },
+      "path": "badges/agentation-mcp/1.3.2.json",
+      "status": "active"
+    },
+    {
       "server": "Aikido MCP Server",
       "version": "1.0.28",
       "riskScore": 93,
@@ -2039,6 +2061,28 @@
         "integrity": "sha512-WrMUV59Mp9oMjt8UXlbJSwOTbMVkVOfdHIaOFmbPYd7S7+DXM5JHr5prvlkeOOxNBxjbsiixJyxmu56HG+hlIg=="
       },
       "path": "badges/axe-mcp-server/1.7.1.json",
+      "status": "active"
+    },
+    {
+      "server": "bailian-mcp-server",
+      "version": "0.0.4",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-30T21:25:52.183Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "bailian-mcp-server@0.0.4",
+        "integrity": "sha512-O8lQwRCCWZvieEqkXthYuKSGWDXoogZg7VjyJW4y7x3Oo9eTcI8jwgekOYUL1m/QMkElrs/POofbK1WHqIELOg=="
+      },
+      "path": "badges/bailian-mcp-server/0.0.4.json",
       "status": "active"
     },
     {
@@ -2829,6 +2873,32 @@
       "status": "active"
     },
     {
+      "server": "ihor-sokoliuk/mcp-searxng",
+      "version": "2.9.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 100,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-30T21:32:34.952Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "mcp-searxng@2.9.0",
+        "integrity": "sha512-cbFkR7cN5a7qxecmQsKzc7cuwjT8AW/YA5pc97Xy4iahtk0EhLmkfWLeSTrsGC9L6T38dyyVlY0S5dxBGSD+GQ=="
+      },
+      "path": "badges/ihor-sokoliuk-mcp-searxng/2.9.0.json",
+      "status": "active"
+    },
+    {
       "server": "kibana-mcp-server",
       "version": "0.11.1",
       "riskScore": 71,
@@ -3282,6 +3352,32 @@
         "integrity": "sha512-G12bvfxlwWl7JeewxBQQ6pEbtX1QNtd2OF3gmsvRQRIR0ANXrqX5Ky5tS9U6kIlEEFWSt1J0iWm/s5j+NDlRcg=="
       },
       "path": "badges/slite-mcp-server/1.3.0.json",
+      "status": "active"
+    },
+    {
+      "server": "storage-mcp-server",
+      "version": "0.6.0",
+      "riskScore": 0,
+      "riskLevel": "critical",
+      "scores": {
+        "mcp.schemaQuality": 85,
+        "mcp.robustness": 0,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 1,
+        "major": 10,
+        "minor": 1,
+        "info": 15
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-10-30T21:31:13.223Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@google-cloud/storage-mcp@0.6.0",
+        "integrity": "sha512-txBCDxbMR4lXPoU3NJBh3fDA33OKdoGDg8PdDcEVxH+jOIYIwxELVD9Tdpf1W88REcELz4EZ+ewvdcLSaaCuIQ=="
+      },
+      "path": "badges/storage-mcp-server/0.6.0.json",
       "status": "active"
     },
     {

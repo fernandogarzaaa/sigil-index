@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "storage-mcp-server",
+  "version": "0.6.0",
+  "riskScore": 0,
+  "riskLevel": "critical",
+  "scores": {
+    "mcp.schemaQuality": 85,
+    "mcp.robustness": 0,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 1,
+    "major": 10,
+    "minor": 1,
+    "info": 15
+  },
+  "evalHash": "f22057ebffb0379dc4b9a478cd0d2358217f38a1c121f6ca73792ee29d209728",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-10-30T21:31:13.223Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@google-cloud/storage-mcp@0.6.0",
+    "integrity": "sha512-txBCDxbMR4lXPoU3NJBh3fDA33OKdoGDg8PdDcEVxH+jOIYIwxELVD9Tdpf1W88REcELz4EZ+ewvdcLSaaCuIQ=="
+  },
+  "signature": "IdejyIsh9Vo0e62n27mI1fHmncVrnFscT6qzgW4Ut2VBduolLDcCxdJXuQMT/EZQjr28o7Fyuft4kkM1hP3jAQ=="
+}

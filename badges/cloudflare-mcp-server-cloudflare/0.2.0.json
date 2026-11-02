@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@cloudflare/mcp-server-cloudflare",
+  "version": "0.2.0",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-02T22:16:32.688Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@cloudflare/mcp-server-cloudflare@0.2.0",
+    "integrity": "sha512-506bCOY2ZI7AINJLULbqyDRLymLag2pRuKFGBPP1yFr9+wAfqHS9fk8UkDdUYCeU5MYdv8FUWHVhdg62cMXdXg=="
+  },
+  "signature": "uwKMF2/DjkGd7nH9fx227nDaqwbqG4w/0K9gHLuH3zC8OZlinXlkumuPV7xWZlRzL+jlKGihe/i41bE3vX4MBA=="
+}

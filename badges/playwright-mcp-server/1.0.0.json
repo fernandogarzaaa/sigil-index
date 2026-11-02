@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "playwright-mcp-server",
+  "version": "1.0.0",
+  "riskScore": 100,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  },
+  "evalHash": "567327f08b4d00933c676086074482516cc63ff772f9520d9954aa4ba9bebef5",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-02T22:15:46.066Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "playwright-mcp-server@1.0.0",
+    "integrity": "sha512-56R3HhtnubMjRnc0ygQKK/QWTOFScP5T+4pV2nfOeFgAYpOVL++t3vT+818N5l4J1PnZ7td281z3q08pq+HwEQ=="
+  },
+  "signature": "o/OwXxY6/hC0fh7XcfOy7iqCDWVnSdlUnLIZ6Gdou2H3G6KAPFMTJYKizERYZe6MYcyqG5YdcQrdXjVWzY2mBA=="
+}

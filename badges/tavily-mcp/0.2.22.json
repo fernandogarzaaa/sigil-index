@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "tavily-mcp",
+  "version": "0.2.22",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 95,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 5
+  },
+  "evalHash": "2559430f329d22beac4d11034afaf1c8bf113b8e9c884099b073e0c65026414b",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-02T22:15:02.095Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "tavily-mcp@0.2.22",
+    "integrity": "sha512-w2pmmmn/JKcNavylDoiNtNPflWt6SK2G1SVUvg0VvdvFJQUaOzEdanAm1VUWBOhUCqmVoBYVPstGcOoWvh8RQQ=="
+  },
+  "signature": "tCEmPquVrEJDhTrMmEQOO5gLMiY1MXqUMJDH7KlMfyfm4bhkGjdowV4f2Ljko7PPA0/pyPABt/WPYC8ZD9E0DA=="
+}

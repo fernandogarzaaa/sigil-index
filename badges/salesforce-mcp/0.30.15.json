@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "@salesforce/mcp",
+  "version": "0.30.15",
+  "riskScore": 99,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 1
+  },
+  "evalHash": "d6685dc7e5e4a158e58d7b49e49e2b613980dd100d84358a903cf422b827e37f",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-02T22:14:43.955Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@salesforce/mcp@0.30.15",
+    "integrity": "sha512-e7XPx9nfeJVJbJCD6GHdsyPZmILWeoUVUZ8e++gRRPZ3K8k+HTU5Ob/5Knt3gGdoeychtIOtKy76ZeeCPqwaUg=="
+  },
+  "signature": "tAIFThcPQnwLr2mqCjq9DI8xvvwV+i2M3raUHJZdXvKYqzd2Hfzk55XW1nqc+w+HRMko7pZImzWKSqauwqM/BQ=="
+}

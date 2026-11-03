@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "Wikipedia",
+  "version": "1.0.3",
+  "riskScore": 74,
+  "riskLevel": "medium",
+  "scores": {
+    "mcp.schemaQuality": 74,
+    "mcp.robustness": 100,
+    "mcp.conformance": 100
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 2,
+    "minor": 0,
+    "info": 2
+  },
+  "evalHash": "77737d82423b37cb1e29c630500557d8516f612ab254075db6cd2f43e0ce19ed",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-03T21:39:33.850Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "wikipedia-mcp@1.0.3",
+    "integrity": "sha512-eY0lWNrbCs/sWIaDXXVGmJfeYIqChHZE8O6EuRz7w4hI2MJzZYC+IHpALOaLyZahvv8WgQYfXfLFQmRiHJj66w=="
+  },
+  "signature": "EvJVLh2Xh6REwNMtCTJGvqpGlN8UcHRjCtwXHTiZbWdLQMaq4m9u5AE8ml4zanIqqkRuZwxUQzYNI+3BiTVmDA=="
+}

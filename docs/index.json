@@ -1,5 +1,5 @@
 {
-  "count": 156,
+  "count": 161,
   "badges": [
     {
       "server": "@amap/amap-maps-mcp-server",
@@ -47,6 +47,28 @@
     },
     {
       "server": "@apify/actors-mcp-server",
+      "version": "0.20.1",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-03T21:27:45.567Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.20.1",
+        "integrity": "sha512-H9v9uMbKd8MKGbHMTRwsd/tIVfDfjhLpRs/4ryftvRfjwDtrPfK3KHNBxtQE6WLbNyJnKUZb3Zfkn6UVb75N4A=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.20.1.json",
+      "status": "active"
+    },
+    {
+      "server": "@apify/actors-mcp-server",
       "version": "0.20.0",
       "riskScore": 100,
       "riskLevel": "low",
@@ -65,7 +87,7 @@
         "integrity": "sha512-kIBFNPZ+9aLUiaSjvbkcYCP9RAPPnfh9x+U5LnM8pVRsssYk0tPyS2idH3tJNJW+pFMk7Vpsu/jmATaysci69A=="
       },
       "path": "badges/apify-actors-mcp-server/0.20.0.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -332,6 +354,28 @@
       "status": "superseded"
     },
     {
+      "server": "@aventurevc/mcp-server",
+      "version": "0.8.347",
+      "riskScore": 99,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-03T21:29:07.226Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@aventurevc/mcp-server@0.8.347",
+        "integrity": "sha512-CXVjzf+RQYPH0e+TI/sax8BuYvqoyIXyuQGIAxd6g+gWuToZRzHv7M7C4ZLL99kL1vkzBZ4sF1gpsbpHoovbSA=="
+      },
+      "path": "badges/aventurevc-mcp-server/0.8.347.json",
+      "status": "active"
+    },
+    {
       "server": "@azure-devops/mcp",
       "version": "2.10.0",
       "riskScore": 100,
@@ -552,6 +596,28 @@
       "status": "active"
     },
     {
+      "server": "@contextstream/mcp-server",
+      "version": "1.0.61",
+      "riskScore": 90,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 2,
+        "info": 2
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-03T21:38:16.616Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@contextstream/mcp-server@1.0.61",
+        "integrity": "sha512-wRlHqKq0GQw6K2E0iaUr871fS0CM2ZWmVWNqXSyZcNKLW2HCMDCSsBI5GJQH0oeRN82QoXAngC53BHze7vLMmQ=="
+      },
+      "path": "badges/contextstream-mcp-server/1.0.61.json",
+      "status": "active"
+    },
+    {
       "server": "@currents/mcp",
       "version": "2.6.1",
       "riskScore": 100,
@@ -725,6 +791,28 @@
         "integrity": "sha512-PCgNRTSNQ5rf4dUsAgkB0slVJ4TkV3zLRrblT47Sp7EVjtNsbSfuY79cIl4h+hjVBMVs/1AyXEcTJ2rOtllrJQ=="
       },
       "path": "badges/ivotoby-openapi-mcp-server/1.16.1.json",
+      "status": "active"
+    },
+    {
+      "server": "@kintone/mcp-server",
+      "version": "1.11.2",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-03T21:44:49.212Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@kintone/mcp-server@1.11.2",
+        "integrity": "sha512-jQ6BWa4jnoc+76Wipjbpz5zyUMdQfkmBz1nPLnWNbyhVl2zb0Fd8RG0R2gfq3RAl6WP9WVEYduUHgF63VSo5ZA=="
+      },
+      "path": "badges/kintone-mcp-server/1.11.2.json",
       "status": "active"
     },
     {
@@ -3689,6 +3777,32 @@
       },
       "path": "badges/ui5/0.3.1.json",
       "status": "superseded"
+    },
+    {
+      "server": "Wikipedia",
+      "version": "1.0.3",
+      "riskScore": 74,
+      "riskLevel": "medium",
+      "scores": {
+        "mcp.schemaQuality": 74,
+        "mcp.robustness": 100,
+        "mcp.conformance": 100
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 2
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-03T21:39:33.850Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "wikipedia-mcp@1.0.3",
+        "integrity": "sha512-eY0lWNrbCs/sWIaDXXVGmJfeYIqChHZE8O6EuRz7w4hI2MJzZYC+IHpALOaLyZahvv8WgQYfXfLFQmRiHJj66w=="
+      },
+      "path": "badges/wikipedia/1.0.3.json",
+      "status": "active"
     }
   ]
 }

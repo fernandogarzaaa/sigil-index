@@ -1,5 +1,5 @@
 {
-  "count": 156,
+  "count": 161,
   "badges": [
     {
       "server": "@amap/amap-maps-mcp-server",
@@ -47,6 +47,28 @@
     },
     {
       "server": "@apify/actors-mcp-server",
+      "version": "0.20.2",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-04T21:25:35.705Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@apify/actors-mcp-server@0.20.2",
+        "integrity": "sha512-pO2/Naq77vpjfyGY/md6ELJjnXCKRWbKUoAXabOe+PO7dKHeXfOqbtMpFhrrMjuWHrq4UsduSDl8EOP2ZF5WSg=="
+      },
+      "path": "badges/apify-actors-mcp-server/0.20.2.json",
+      "status": "active"
+    },
+    {
+      "server": "@apify/actors-mcp-server",
       "version": "0.20.0",
       "riskScore": 100,
       "riskLevel": "low",
@@ -65,7 +87,7 @@
         "integrity": "sha512-kIBFNPZ+9aLUiaSjvbkcYCP9RAPPnfh9x+U5LnM8pVRsssYk0tPyS2idH3tJNJW+pFMk7Vpsu/jmATaysci69A=="
       },
       "path": "badges/apify-actors-mcp-server/0.20.0.json",
-      "status": "active"
+      "status": "superseded"
     },
     {
       "server": "@apify/actors-mcp-server",
@@ -1568,6 +1590,32 @@
       "status": "active"
     },
     {
+      "server": "@tacitai/mcp-server",
+      "version": "0.6.54",
+      "riskScore": 0,
+      "riskLevel": "high",
+      "scores": {
+        "mcp.schemaQuality": 0,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 7,
+        "info": 193
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-04T21:27:49.663Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@tacitai/mcp-server@0.6.54",
+        "integrity": "sha512-VEUV1bCQXBd520ZBi5RcjeBOcaw8MQI3QS8tvb3jZHoLlLMLDo5+qJvU6iM3Kh/2I2Ywvpk2yvpV0zzBvUtL6Q=="
+      },
+      "path": "badges/tacitai-mcp-server/0.6.54.json",
+      "status": "active"
+    },
+    {
       "server": "@theia/ai-mcp-server",
       "version": "1.76.0",
       "riskScore": 100,
@@ -1921,6 +1969,28 @@
         "integrity": "sha512-N1Xtrnu8sLOjfPn4H/OJWk2bKf9ETrmw6kVfTEKJZx+q4WwxqJmtH4Advx4aBiP/ogjEVH0vBMi8qB9BrlFONg=="
       },
       "path": "badges/voltagent-mcp-server/2.2.0.json",
+      "status": "active"
+    },
+    {
+      "server": "@vouchington/mcp-server",
+      "version": "0.2.0",
+      "riskScore": 100,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-04T21:27:09.486Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@vouchington/mcp-server@0.2.0",
+        "integrity": "sha512-UWa3v0witgkNo4EjqhyclZ8JBVDlHD/FIuNVNAc6fpXFGr6b+msdvS5JhvxX8rRQXzI0jTYrJbEwzHzlmDHtQA=="
+      },
+      "path": "badges/vouchington-mcp-server/0.2.0.json",
       "status": "active"
     },
     {
@@ -3217,6 +3287,32 @@
       "status": "active"
     },
     {
+      "server": "monaco-mcp-server",
+      "version": "1.1.6",
+      "riskScore": 96,
+      "riskLevel": "low",
+      "scores": {
+        "mcp.schemaQuality": 100,
+        "mcp.robustness": 100,
+        "mcp.conformance": 96
+      },
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 0
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-04T21:26:50.140Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "@0xmonaco/mcp-server@1.1.6",
+        "integrity": "sha512-IuGOOfYlk0s93hUuy/nHcTWj05hBTt69HQAE4gJmm/wS4lhXtNdD84A/6mdIW5htQv7fH2IweaClxkVs4xQV9A=="
+      },
+      "path": "badges/monaco-mcp-server/1.1.6.json",
+      "status": "active"
+    },
+    {
       "server": "motiff-mcp-server",
       "version": "0.0.19",
       "riskScore": 96,
@@ -3440,6 +3536,28 @@
         "integrity": "sha512-1ypuX5avMtQpc4hzbmMCbD78qhBh9DVoJvfICdRBMb/iCbR4fbQEvGmNzL+LyGS39GL2u1Xw6wyGuKpYjz3Nlw=="
       },
       "path": "badges/serper-search-scrape-mcp-server/0.1.2.json",
+      "status": "active"
+    },
+    {
+      "server": "slack-mcp-server",
+      "version": "1.3.0",
+      "riskScore": 95,
+      "riskLevel": "low",
+      "scores": null,
+      "findingCounts": {
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "info": 1
+      },
+      "keyId": "ac22e8d7e54463b7",
+      "issuedAt": "2026-11-04T21:28:08.126Z",
+      "artifact": {
+        "type": "npm",
+        "spec": "slack-mcp-server@1.3.0",
+        "integrity": "sha512-YoRGvadhHkN4jwr1uYAxcNidmRPuzDXDM7j8dmnuvclF8zeqzBHefm1IiZE/xGr23Ka0ljNysdDTDUC7PWj21Q=="
+      },
+      "path": "badges/slack-mcp-server/1.3.0.json",
       "status": "active"
     },
     {

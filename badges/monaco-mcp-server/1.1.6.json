@@ -1,0 +1,32 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "monaco-mcp-server",
+  "version": "1.1.6",
+  "riskScore": 96,
+  "riskLevel": "low",
+  "scores": {
+    "mcp.schemaQuality": 100,
+    "mcp.robustness": 100,
+    "mcp.conformance": 96
+  },
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 0
+  },
+  "evalHash": "7a84bb4f5900b43827489576b8da266afa8da069921b4662d97e5bcf93447053",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-04T21:26:50.140Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "@0xmonaco/mcp-server@1.1.6",
+    "integrity": "sha512-IuGOOfYlk0s93hUuy/nHcTWj05hBTt69HQAE4gJmm/wS4lhXtNdD84A/6mdIW5htQv7fH2IweaClxkVs4xQV9A=="
+  },
+  "signature": "b/Y7TD3aMywg6jnZPxMWuJrrxqhVdHr7vyldBMHri28tfHol8mFhayZrY9KqJP43Pnp4IuhoJattAfhcoto8Bg=="
+}

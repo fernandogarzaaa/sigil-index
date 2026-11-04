@@ -1,0 +1,28 @@
+{
+  "type": "sigil-badge/v1",
+  "server": "slack-mcp-server",
+  "version": "1.3.0",
+  "riskScore": 95,
+  "riskLevel": "low",
+  "scores": null,
+  "findingCounts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 1,
+    "info": 1
+  },
+  "evalHash": "f0e647372f1a4c14a6d5bc477611ecf0c6951dbec57fadc870286ed41b46b86f",
+  "keyId": "ac22e8d7e54463b7",
+  "publicKey": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "uiN22n7I1Xe84cVLawFhOd5sc9iVWMApfuADBqyJAV0"
+  },
+  "issuedAt": "2026-11-04T21:28:08.126Z",
+  "artifact": {
+    "type": "npm",
+    "spec": "slack-mcp-server@1.3.0",
+    "integrity": "sha512-YoRGvadhHkN4jwr1uYAxcNidmRPuzDXDM7j8dmnuvclF8zeqzBHefm1IiZE/xGr23Ka0ljNysdDTDUC7PWj21Q=="
+  },
+  "signature": "hAb9qkmQtTtE+Nx+3A33stgYgd7dQbXL1cSqXr+UYnberFek/7j/xBpeRS/OOxPN2O+/tAzJm1/dNixkHoaMAw=="
+}
